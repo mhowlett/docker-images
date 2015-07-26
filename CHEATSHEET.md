@@ -6,7 +6,7 @@ Misc notes on how to make docker do stuff.
 
     docker images
     docker ps -a
-    docker rm <container name>
+    docker rm -f <container name>
     docker rmi <image name>
     docker stop
     docker run -it --name <name> <image-name> [command]
