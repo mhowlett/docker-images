@@ -28,3 +28,9 @@ https://github.com/boot2docker/boot2docker/blob/master/doc/WORKAROUNDS.md
 #### initializing env
 
     $(boot2docker shellinit)
+
+### orchestration
+
+#### automated reverse proxy
+
+http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/
